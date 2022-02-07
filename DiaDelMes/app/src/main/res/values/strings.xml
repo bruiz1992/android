@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiaDelMes</string>
+    <string name="botonsieguiente">Comprobar</string>
+    <string name="tv1">primer activity</string>
+    <string name="botonanterior">Volver</string>
+    <string name="tv2">segundo activity</string>
+
+
+
+
+
+
+</resources>
